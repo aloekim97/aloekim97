@@ -2,7 +2,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-* I started to really get into software engineering in the start of 2022. Prior to taking online classes, I bought a class on Udemy that boadened my perspective on coding. Today I have completed a few full stack projects and am looking for new projects to hone my skills. 
+* I started to really get into software engineering in the start of 2022. Prior to taking online classes, I took a class on Udemy that broadened my perspective on coding. Today I have completed a few full stack projects and am looking for new projects to hone my skills. 
 
 ## Tools that I have learned to use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
